@@ -12,7 +12,13 @@
 .column2{
     float: left;
     height: 100%;
-    width: 80%;
+    width: 60%;
     background-color: red;
+}
+.column3{
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: yellow;
 }
 
